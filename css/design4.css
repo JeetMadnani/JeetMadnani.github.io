@@ -1,0 +1,177 @@
+body{
+	background-color: hsl(184,80%,91%);
+	padding: 5px;
+	background-image: url("../images/bg04.jpg");
+	margin: 0px 23%;
+}
+
+h1{
+	font-family:Geneva;
+	text-align: center;
+}
+
+h2 {
+	display: inline-block;
+	font-size: 20px;
+	font-family:Arial;
+		color: hsl(345,91%,27%);
+}
+/*
+#name{
+	text-align: left;
+	}*/
+
+	.functions{
+		float: right;
+	}
+
+	.buttons{
+		margin-left: 20px;
+		font-size: 20px;
+	}
+
+	h1{
+		font-family:Geneva;
+		text-align: center;
+		margin-top: 0px;
+		font-size: 45px;
+	}
+
+	#intro{
+		text-align: justify;
+		text-align: center;
+		font-size: 21px;
+		margin-bottom:0px;
+		font-family: Helvetica;
+		margin-top: 25px;
+	}
+
+	.design{
+		/*border: 200px 200px;*/
+		text-align: justify;
+		/*border-style: solid;*/
+		border-color: hsl(234 84% 32%);
+		border-width: 3px;
+		padding: 8px;
+		font-size:20px;
+	}
+
+	#para1{
+		margin:20px 14px 20px 0px;
+	}
+
+	#desk{
+		border-width: 2px;
+		margin-right: 450px;
+	}
+
+/*#bdesk{
+	margin-bottom: 10px
+}
+
+#fdesk{
+	margin-bottom: 10px;
+	}*/
+
+	#main { 
+		/*width: 100%;*/
+		/*margin: 0 auto;*/
+	}
+
+	#MYP1{
+		/*display: inline;*/
+		float:left;
+		/*	background-color: blue;*/
+		width: 45%;
+	font-size: 20;
+	font-size: 20px;
+	font-family: Helvetica;
+	background-color: rgba(255,255,255, 0.4);
+		padding: 0% 1% 0% 4%;
+	}
+
+	#MYP2{
+		/*display: inline;*/
+		float: right;
+		/*	background-color: red;*/
+		width: 45%;
+	font-size: 20px;
+	font-family: Helvetica;
+	background-color: rgba(255,255,255, 0.4);
+		padding: 0% 4% 3.3% 1%;
+	}
+
+/*#p2p{
+	margin-bottom: 10px
+	}*/
+
+	.desk{
+		border-width: 3px;
+		margin:0px 25px 10px 0px;
+		width: 100%;
+		/*border-style: solid;*/
+		border-color: hsl(234 84% 32%);
+	}
+
+	#specialdesk{
+		margin-bottom: : 0px;
+	}
+
+	#dd{
+		margin:20px 20px 20px 0px;
+	}
+
+	#PP{
+		font-family:Trebuchet MS;
+		font-size: 34px;
+		color: hsl(345,91%,27%);
+	}
+
+
+	#para2{
+		margin-top: 0px;
+		margin-right:0px;
+	}
+
+	#para1{
+		margin-top: 20px;
+		margin-left: 0px;
+	}
+
+#para3{
+		margin:0px 15px 0px 0px;
+	}
+
+	#paragraph{
+		margin-top: 20px;
+		margin-bottom: 0px;
+		padding: 0px;
+	}
+
+	#pp{
+		margin-right: 5px;
+	}
+h2{
+	font-family:Arial;
+	font-size: 20px
+	color: hsl(345,91%,27%);
+	margin-bottom: 10px;
+}
+
+#vball{
+	margin-bottom: 0px;
+}
+
+#stuco{
+	width: 100%;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+#bigmain{
+	background-color: rgba(255,255,255, 0.4);
+	padding: 0px 100px 0px 100px;
+]

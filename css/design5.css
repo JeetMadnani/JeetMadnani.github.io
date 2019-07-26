@@ -1,0 +1,18 @@
+body{
+
+	background-color: hsl(184,80%,91%);
+}
+
+h1{
+	font-family:Geneva;
+	text-align: center;
+}
+
+h2{
+	font-family:Trebuchet MS;
+	font-size: 26px
+}
+
+h2{
+	color: hsl(345,91%,27%);
+}

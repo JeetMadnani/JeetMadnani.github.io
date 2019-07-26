@@ -1,0 +1,147 @@
+body{
+
+	background-color: hsl(184,80%,91%);
+	background-image: url("../images/bg04.jpg");
+	padding: 5px;
+	margin: 0px 23%;
+
+}
+
+h1{
+	font-family:Geneva;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	font-size: 45px;
+}
+
+h2{
+	font-family:Trebuchet MS;
+	font-size: 34px;
+	margin-top:15px;
+}
+
+h2{
+	color: hsl(345,91%,27%);
+}
+
+ul{
+	font-family: Helvetica;
+	font-size: 20px;
+	text-align: justify;
+
+}
+
+p{
+	font-family: Helvetica;
+	font-size: 20px;
+	text-align: justify;
+}
+
+#_title{
+	padding: 0px 0px 5px 0px;
+	margin:5px 5px 5px 5px;
+}
+
+.grade{
+	font-weight:bold;
+}
+
+.link{
+	color: blue;
+}
+
+#country{
+	/*display: inline-block;*/
+	/*background-color: */
+	border-style: solid;
+	border-width: 3px;
+	border-color: hsl(234 84% 32%);
+	margin: 0px 11px 0px 11px;
+	padding:5px 5px 0px 5px;
+}
+
+.flag {
+	width: 33%;
+	height: 100%
+}
+
+#family_image{
+	width:54%;
+	display: inline-block;
+	border: 1px 1px;
+	margin: 3px 7px 3px 7px
+}
+
+#smallfamily{
+	/*margin: auto;
+  	width: 50%;
+ 	border: 3px;
+  	padding: 10px;*/
+
+  	position: absolute;
+  	right: 506px;
+  	top:945px;
+  	width: 20%;
+  	border: 3px;
+  	padding: 10px;
+  	display: inline-block;
+  	font-size: 21px;
+}
+
+._Family{
+	/*border-color: blue;*/
+	border-style: solid;
+	border-color: hsl(234 84% 32%);
+	border-width: 3px;
+	margin: 0px 8px 0px 8px;
+	padding: 0px 3px
+}
+
+.functions{
+	float: right;
+}
+
+.buttons{
+	margin-left: 20px;
+}
+
+h3{
+	display: inline-block;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top: 16px;
+	font-family: Arial;
+	color: hsl(345,91%,27%);
+}
+
+	/*display: inline-block;
+	font-size: 20px;
+	margin-bottom: 0px;
+	margin-top: 16px;*/
+
+a{
+		text-decoration: none;
+	}
+
+#basic{
+	margin: 20px 10px 15px 10px;
+}
+
+.basic{
+	margin: 10px 10px 10px 10px
+}
+
+#bg{
+	text-align: justify;
+	text-align: center;
+	font-size: 21px;
+	margin-bottom:6px;
+	margin-top: 25px;
+	font-family: Helvetica;
+}
+
+#bigmain{
+	background-color: rgba(255,255,255,0.4);
+	padding: 0px 40px 40px 40px;
+}
