@@ -1,5 +1,5 @@
 body{
-	background-color: hsl(184,80%,91%);
+	/*background-color: hsl(184,80%,91%);*/
 	padding: 5px;
 	background-image: url("../images/bg04.jpg");
 	margin: 0px 23%;
@@ -14,7 +14,7 @@ h2 {
 	display: inline-block;
 	font-size: 20px;
 	font-family:Arial;
-		color: hsl(345,91%,27%);
+	color: hsl(345,91%,27%);
 }
 /*
 #name{
@@ -78,11 +78,11 @@ h2 {
 		/*margin: 0 auto;*/
 	}
 
-	#MYP1{
-		/*display: inline;*/
-		float:left;
-		/*	background-color: blue;*/
-		width: 45%;
+#MYP1{
+	/*display: inline;*/
+	float:left;
+	/*	background-color: blue;*/
+	width: 45%;
 	font-size: 20;
 	font-size: 20px;
 	font-family: Helvetica;
@@ -91,15 +91,15 @@ h2 {
 	}
 
 	#MYP2{
-		/*display: inline;*/
-		float: right;
-		/*	background-color: red;*/
-		width: 45%;
+	/*display: inline;*/
+	float: right;
+	/*	background-color: red;*/
+	width: 45%;
 	font-size: 20px;
 	font-family: Helvetica;
 	background-color: rgba(255,255,255, 0.4);
 		padding: 0% 4% 3.3% 1%;
-	}
+}
 
 /*#p2p{
 	margin-bottom: 10px
@@ -151,12 +151,6 @@ h2 {
 	#pp{
 		margin-right: 5px;
 	}
-h2{
-	font-family:Arial;
-	font-size: 20px
-	color: hsl(345,91%,27%);
-	margin-bottom: 10px;
-}
 
 #vball{
 	margin-bottom: 0px;

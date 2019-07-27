@@ -63,21 +63,26 @@ p{
 	/*height: 2%*/
 }
 
-.functions{
-	float: right;
-}
 
-.buttons{
-	margin-left: 20px;
-}
-
-h3{
+h2 {
 	display: inline-block;
 	font-size: 20px;
-	margin-bottom: 0px;
-	margin-top: 16px;
-	font-family: Trebuchet MS;
+	font-family:Arial;
+		color: hsl(345,91%,27%);
 }
+/*
+#name{
+	text-align: left;
+	}*/
+
+	.functions{
+		float: right;
+	}
+
+	.buttons{
+		margin-left: 20px;
+		font-size: 20px;
+	}
 
 	/*display: inline-block;
 	font-size: 20px;

@@ -55,12 +55,15 @@ h2 {
 
 #left_top{
 	background-image:url(../images/sis.jpg);
+	margin-left: 10px;
+	margin-bottom: 0%;
 }
 #right_bottom{
 	background-image:url(../images/unknown2.jpg);
 	/*margin-top: 9px;*/
 	margin-left:9px;
-	width: 96.5%;
+	width: 94%;
+	margin-bottom: 20px;
 	/*margin-bottom: 10px;*/
 }
 
@@ -73,25 +76,27 @@ img{
 	width: 96.5%;
 	float:right;
 	margin-right: 0px;
-	margin-top: 9px;
-	margin-bottom: 9px;
+	margin-top: 0px;
+	margin-bottom: 11px;
 }
 
 #left_bottom_b{
 	width: 50%;
 	height: 44.5%;
 	float:right;
-	margin-right: 9px;
+	margin-right: 0px;
+	margin-bottom: 20px
 }
 
 #right_top_a{
 	width: 50%;
-	margin-left: 9px;
+	margin-left: 1px;
+	margin-top: 20px;
 }
 
 #right_top_b{
-	width:96.5%;
-	margin-left: 9px;
+	width:90%;
+	margin-left: 1px;
 	margin-top:5px;
 }
 
